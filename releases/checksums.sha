@@ -1,6 +1,0 @@
-91628b2eddeb453769e857a4de5682e2d9d8ab66  ./pub/linux/kernel/Linux-4.9-kernel-x86_64.iso
-5b6dd287adf17affadca4c2da8ae2ef8b5995e9a  ./pub/linux/kernel/linux-6.13.6-kernel-x86_64.iso
-96069a942fb1bebebd4d030a61ff147cff0adc5d  ./pub/linux/kernel/ISOLINUX/linux-6.13.6-bootdisk-defconfig-x86_64.ISO
-ff98cebcf51aec87c8783e9d2deaa02226d7bd9c  ./pub/linux/kernel/ISOLINUX/linux-6.13.6-bootdisk-nomodule-x86_64.ISO
-48febf6721b81d0d73d3c4221568b0c6536c8940  ./pub/busybox/busybox-1.37.0-static-nonet-build.iso
-99064c37d6ecda4fad03afb4901292f6bf2f825a  ./pub/busybox/busybox-1.37.0-defconfig-nonet-build.iso
